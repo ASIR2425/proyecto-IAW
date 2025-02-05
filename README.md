@@ -6,4 +6,8 @@ Pasos:
 3. git status
 4. editar fichero README.md
 5. git add .
+    5.1 git commit -m
 6. git tag v1 <hash>
+
+
+
